@@ -34,13 +34,15 @@ Built using **OpenAI Whisper**, **Google Translate**, **ElevenLabs**, and **Stre
 
 ## Technology Stack  
 
-| **Technology** | **Description** |
-|----------------|-----------------|
-| ![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/6/66/OpenAI_Logo.svg) **OpenAI Whisper** | Speech-to-text transcription. |
-| ![Google Translate Logo](https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_Translate_logo.svg) **Google Translate** | Multilingual text translation. |
-| ![ElevenLabs Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Eleven_Labs_Logo.svg/1200px-Eleven_Labs_Logo.svg.png) **ElevenLabs** | Realistic multilingual text-to-speech synthesis. |
-| ![Streamlit Logo](https://upload.wikimedia.org/wikipedia/commons/3/30/Streamlit_logo.svg) **Streamlit** | Interactive user interface for seamless operation. |
-| ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python** | Backend logic for AI integration and API calls. |
+## Technology Stack  
+
+| **Technology**            | **Description**                                      |  
+|----------------------------|-----------------------------------------------------|  
+| **OpenAI Whisper**         | Speech-to-text transcription.                       |  
+| **Google Translate**       | Multilingual text translation.                      |  
+| **ElevenLabs**             | Realistic multilingual text-to-speech synthesis.    |  
+| **Streamlit**              | Interactive user interface for seamless operation.  |  
+| **Python**                 | Backend logic for AI integration and API calls.     |  
 
 ---
 
