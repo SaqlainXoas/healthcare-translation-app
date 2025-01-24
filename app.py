@@ -63,7 +63,9 @@ def main():
 
                 # Translate text
                 try:
-                    translated_text = asyncio.run(translate_text(original_text, 'en', output_language))
+                    loop = asyncio.new_event_loop()
+                    asyncio.set_event_loop(loop)
+                    translated_text = loop.run_until_complete(translate_text(original_text, 'en', output_language))
                 except Exception as e:
                     st.error(f"Error during translation: {e}")
                     return
