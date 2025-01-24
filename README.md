@@ -31,12 +31,16 @@ Built using **OpenAI Whisper**, **Google Translate**, **ElevenLabs**, and **Stre
 
 ## 📦 Technology Stack  
 
-<div align="center">
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" height="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Google_Translate_logo.png" alt="Google Translate Logo" height="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/OpenAI_Logo.svg" alt="OpenAI Logo" height="60" />
-  <img src="https://github.com/elevenlabs/elevenlabs-python/raw/main/logo.png" alt="ElevenLabs Logo" height="60" />
-</div>  
+
+| **Technology**            | **Description**                                      |  
+|---------------------------|------------------------------------------------------|  
+| ![OpenAI Logo](https://en.m.wikipedia.org/wiki/File:OpenAI_Logo.svg) **OpenAI Whisper**         | Speech-to-text transcription.                       |  
+| ![Google Translate Logo](https://en.m.wikipedia.org/wiki/File:Google_Translate_logo.svg) **Google Translate**       | Multilingual text translation.                      |  
+| ![ElevenLabs Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAUVBMVEX///8AAADe3t7n5+fT09M5OTm0tLSsrKwxMTF/f3/x8fHt7e1paWlAQEDOzs4kJCRJSUmampoSEhKioqL39/cZGRlkZGQICAhQUFApKSm9vb3IFuFuAAAB6UlEQVR4nO3dQW+qQBSG4TNgsYACgtre+/9/aEFjGtmYppOcj9P3WbiBxXkXZJhIMpYWdWub1ta3DFt+DqX3NL9VHh4xx857lt/rjveYy957khymyy3m2ngPkkNzXWL6ynuOPKp+jhm8p8hlmGNO3kPkcko2Ft5D5FKMNnrPkM9oYR6Z+aGx2nuEfGqbvEfIZ7Igq8yisgDvZQ+d7bxHyGdnYZaZeaGxzW9lvpUW4pX5ro0U09jZe4R8zrFiAAAAAAAAAAAAsGHnaf9kWn2V21TP1/fK/3WXaWX1lUHRr64rfx/yMuaNGB/EqCJGFTGqiFFFjCpiVBGjihhVxKgiRhUxqohRRYwqYlQRo4oYVcSoIkYVMaqIUUWMKmJUEaOKGFXEqCJGFTGqiFFFjCpiVBGjihhVxKgiRhUxqohRRYwqYlQRo4oYVX8r5n1TMe9PPtYxn/+er//3mRMAAAAAAAAAgD8h0Cm0wU4HDnUIdfv6pq1oYh3crnzMwA8Vtnt901bsrPMeIZ/OlP+8/qHKJu8R8pms9h4hn9oG7xHyGWz0HiGf0cYwC00xWjp5D5HLKVkK89AMc0wfZKWp+jkmXUPsApprWmIuIdbN/eUWk44B3s+6Y7rHpMPmNzXlIT1iUr3x/WZb3zK+ACvFGUzIcmBeAAAAAElFTkSuQmCC) **ElevenLabs**             | Realistic multilingual text-to-speech synthesis.    |  
+| ![Streamlit Logo](https://upload.wikimedia.org/wikipedia/commons/3/30/Streamlit_logo.svg) **Streamlit**              | Interactive user interface for seamless operation.  |  
+| ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**                 | Backend logic for AI integration and API calls.     |  
+
+---
 
 ---
 
