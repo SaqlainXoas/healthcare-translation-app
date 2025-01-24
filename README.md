@@ -29,12 +29,7 @@ Built using **OpenAI Whisper**, **Google Translate**, **ElevenLabs**, and **Stre
 
 ---
 
-## 📦 Technology Stack  
-
-
-## Technology Stack  
-
-## Technology Stack  
+## 📦 Technology Stack   
 
 | **Technology**            | **Description**                                      |  
 |----------------------------|-----------------------------------------------------|  
